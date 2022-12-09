@@ -1,7 +1,6 @@
-#!/bin/bash
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - print a statement
  * Return: Always 0 (success)
  */
 
