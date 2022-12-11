@@ -4,8 +4,8 @@
 #include <stdio.h>
 
 /**
-* main - checks if a random number is + or - and return the value 
-* Return- always 0 (success)
+* main - checks if a random number is + or - and return the value
+* Return: Always 0 (success)
 */
 int main(void)
 
@@ -23,7 +23,7 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	else 
+	else
 	{
 		printf("%d is negative\n", n);
 	}
