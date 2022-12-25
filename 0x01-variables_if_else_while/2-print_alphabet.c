@@ -6,13 +6,13 @@
  * Return: Always 0
  */
 
-int main ();
+int main (void)
 {
-	char c;
+	char letter;
 
-	for (c >= 'a'; c <= 'z'; c++)
-		
-		putchar(c);
+	for (letter = 'a'; letter <= 'z'; letter++)
+
+		putchar(letter);
 
 	putchar('\n');
 
